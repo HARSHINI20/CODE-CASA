@@ -1,1 +1,3 @@
-TASK 1 :EMAIL SPAM DEDECTION  Thanks for giving me this wonderfull oppurtutinity to work with CODE CASA.
+TASK 1 :EMAIL SPAM DETECTION  
+TASK 2: CREDIT CARD FARUD DETECTION
+Thanks for giving me this wonderfull opportunity to work with CODE CASA.
